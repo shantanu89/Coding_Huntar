@@ -1,0 +1,10 @@
+{
+  "parametes": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/coding_huntur",
+    "prodctio_uri": "mysql://root:@localhost/coding_huntur",
+    "heading": "Coding Thundar",
+    "username": "shantanupradhan89",
+    "password": "shan@j070999"
+  }
+}
